@@ -1,2 +1,2 @@
 # starter
-Webpac練習
+Webpack練習
