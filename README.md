@@ -1,2 +1,2 @@
 # starter
-Webpacj練習
+Webpac練習
